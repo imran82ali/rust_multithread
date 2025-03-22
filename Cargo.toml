@@ -2,6 +2,12 @@
 name = "multithread"
 version = "0.1.0"
 edition = "2024"
+authors = ["imran82ali <code.imranali@gmail.com>"]
+repository = "https://github.com/imran82ali/rust_multithread"
+homepage = "https://github.com/imran82ali/rust_multithread"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "Sample multithread Rust Application"
 
 [dependencies]
 sysinfo = "0.29"
